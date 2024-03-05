@@ -1,2 +1,13 @@
-body{color: #222;}
-p{color: blue'}
+body {
+  color: #222;
+}
+
+p {
+  color: blue;
+}
+
+
+form {
+  padding: 30px;
+  margin: 20px;
+}
