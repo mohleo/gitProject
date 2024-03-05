@@ -1,1 +1,2 @@
-var add = (a,b) => a+b
+var add = (a, b) => a + b;
+console.log(add(2, 3));
